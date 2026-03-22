@@ -43,7 +43,7 @@ _This standard applies to all knowledge repositories under saboteur-labs, presen
 Varsentry
 Deterministic CLI for validating .env files, runtime versions, and configuration integrity before your application runs. Built for local development, CI pipelines, and production preflight checks. MIT-licensed.
 
-## Open Knowledge
+### Open Knowledge
 
 ai-workflows
 Documented patterns for working with LLMs in development workflows. A living reference, not a framework.
